@@ -11,3 +11,10 @@ a {
     font-size: 16px;
     color: aquamarine;
 }
+h2 {
+    font-weight: 300;
+    font-size: 42;
+}
+p {
+    color: grey;
+}
