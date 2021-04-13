@@ -6,6 +6,7 @@ html {
 }
 h1 {
     font-size: 50px;
+    font-weight: normal;
 }
 a {
     font-size: 16px;
@@ -17,6 +18,7 @@ h2 {
 }
 p {
     color: grey;
+    font-size: 21px;
 }
 footer {
     text-align: right;
